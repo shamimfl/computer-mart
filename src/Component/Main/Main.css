@@ -1,0 +1,31 @@
+.all-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.summary-container{
+    position: sticky;
+    top: 0;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(21, 224, 238);
+
+}
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+}
+
+@media only screen and (max-width: 668px) {
+   .product-container{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 20px;
+   }
+
+   .all-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+  }

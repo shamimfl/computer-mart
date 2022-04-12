@@ -1,0 +1,56 @@
+[
+    {
+        "name": "IdeaPad 3",
+        "id" : "45647564785647", 
+        "img":"https://www.lenovo.com/medias/lenovo-laptop-ideapad-3-15-amd-subseries-gallery-2.jpg?context=bWFzdGVyfHJvb3R8MzAyODB8aW1hZ2UvanBnfGhjOC9oOTAvMTA3NDQ5NjI5NDA5NTguanBnfDdiYzRjYTA5NTY4MGU3MjBlNjMwYWVhYjhmZDg3NGQyZWRhODBlMWJiMzBhZWExNWQ0OTE4MTEwYzFlM2ZhYjU",
+        "price":"750"
+    },
+    {
+        "name": "Lenovo v110",
+        "id" : "2434343732438", 
+        "img":"https://static-01.daraz.lk/p/1049c12dfc159f05b0ad6563c725f6d0.jpg",
+        "price":"900"
+    },
+    {
+        "name": "15 Lenovo",
+        "id" : "3746736343464", 
+        "img":"https://i.pinimg.com/236x/22/3a/dc/223adc896cfc2aa232336f6211e976c3.jpg",
+        "price":"884"
+    },
+    {
+        "name": "IdeaPad 1",
+        "id" : "623647325632", 
+        "img":"https://www.ubuy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFoaGdlUUNyT0wuX0FDX1NMMTUwMF8uanBn.jpg",
+        "price":"853"
+    },
+    {
+        "name": "ThinkPad t460s",
+        "id" : "5678567895", 
+        "img":"https://www.rmonlinebd.com/image/cache/catalog/Laptop/Lenovo/leno/lenovo-ip-l3-core-i3-10th-gen-laptop-1-1000x1000-250x250.jpg",
+        "price":"944"
+    },
+    {
+        "name": "Lenovo 14 v",
+        "id" : "45634435454", 
+        "img":"https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MzA1MDkzfGltYWdlL3BuZ3xoOWEvaGIyLzk5MDk1OTEzMTAzNjYucG5nfDA5YmM1OTE4MzJmZWUyOGU4ZDZiZmVlMTM5MTY4MWNjMmE0OTgyNDA2ODk4MGIwNTgyZTdkYzcyMDEyMDk4MDU/lenovo-edu-14w-laptop-hero.png",
+        "price":"966"
+    },
+    {
+        "name": "Lenovo IP slim",
+        "id" : "748556473565379", 
+        "img":"https://www.dolphin.com.bd/pub/media/catalog/product/l/e/note2637.jpg",
+        "price":"1034"
+    },
+    {
+        "name": "1x carbon",
+        "id" : "23623437985648", 
+        "img":"https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/v14/v14-101-228x228.jpg",
+        "price":"988"
+    },
+    {
+        "name": " Lenovo t440",
+        "id" : "784356634576", 
+        "img":"https://p-my.ipricegroup.com/uploaded_8b48e74431fcb9c20d813eb66fb1cf59.jpg?position=21",
+        "price":"945"
+    }
+]

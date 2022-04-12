@@ -1,0 +1,30 @@
+.shop-name{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 20px;
+    /* text-shadow: 10px 10px 10px rgb(0, 0, 0); */
+    font-family: monospace;
+    padding: 20px;
+}
+.headers{
+    position: relative;
+    top: -20px;
+    margin: 0%;
+    background: linear-gradient(155deg, rgb(20, 242, 157) 25%, rgb(11, 195, 228) 25%)
+}
+.dscribetion{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    padding: 30px;
+}
+
+.head-collection{
+    margin-bottom: 50px;
+    text-decoration: underline;
+    text-shadow: 5px 5px 5px rgb(196, 194, 194);
+    color: rgb(6, 6, 9);
+}
+.shop-name:hover{
+    text-decoration: underline;
+}

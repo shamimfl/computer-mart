@@ -2,6 +2,6 @@
 
 
 
-### Live Site 
+### Live Sit
 
-Live Site Link : https://preeminent-centaur-de4407.netlify.app/
+-  https://preeminent-centaur-de4407.netlify.app/
